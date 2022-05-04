@@ -69,9 +69,6 @@ h1.part1 {
 p.part1 {
   font-size: 17px;
   transition: 500ms;
-}:hover {
-  color: red;
-  transition: 500ms;
 }
 
 
@@ -82,9 +79,6 @@ h1.part2 {
 p.part2 {
   font-size: 17px;
   transition: 500ms;
-}:hover {
-  color: red;
-  transition: 500ms;
 }
 
 
@@ -94,8 +88,5 @@ h1.part3 {
 }
 p.part3 {
   font-size: 17px;
-  transition: 500ms;
-}:hover {
-  color: red;
   transition: 500ms;
 }
