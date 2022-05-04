@@ -1,0 +1,101 @@
+*{
+  text-align: center;
+  text-decoration: none;
+  color: black;
+}
+
+h1.reseau-header {
+  padding-top: 50px;
+  font-size: 40px;
+}
+
+h4.reseau-header {
+  padding-top: 25px;
+  margin-bottom: 100px;
+  font-size: 15px;
+}
+
+div.sommaire {
+  border-color: grey;
+  border-style: solid;
+  margin-left: 30%;
+  margin-right: 30%;
+  border-radius: 20px;
+}
+
+h1.sommaire-header {
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+ul.sommaire-list {
+  text-decoration: none;
+  margin-bottom: 35px;
+  list-style-type: none;
+}
+
+li.sommaire-item {
+  text-decoration: none;
+}
+
+h3.sommaire-item {
+  color: grey;
+}
+
+
+div.histoire {
+  margin-top: 250px;
+  margin-left: 7%;
+  margin-right: 7%;
+}
+
+div.dangers {
+  margin-top: 100px;
+  margin-left: 7%;
+  margin-right: 7%;
+}
+
+div.avantages {
+  margin-top: 100px;
+  margin-left: 7%;
+  margin-right: 7%;
+}
+
+
+h1.part1 {
+  font-size: 40px;
+  transition: 500ms;
+}
+p.part1 {
+  font-size: 17px;
+  transition: 500ms;
+}:hover {
+  color: red;
+  transition: 500ms;
+}
+
+
+h1.part2 {
+  font-size: 40px;
+  transition: 500ms;
+}
+p.part2 {
+  font-size: 17px;
+  transition: 500ms;
+}:hover {
+  color: red;
+  transition: 500ms;
+}
+
+
+h1.part3 {
+  font-size: 40px;
+  transition: 500ms;
+}
+p.part3 {
+  font-size: 17px;
+  transition: 500ms;
+}:hover {
+  color: red;
+  transition: 500ms;
+}
